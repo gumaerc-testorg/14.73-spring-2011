@@ -2,15 +2,24 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Notes
+optional_text: '[Is it possible to deliver quality education to the poor: The Pratham-JPAL
+  Partnership (PDF)](resources/mit14_73s11_lec10_slides)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Is It Possible to Deliver Quality Education to the Poor-The Pratham-JPAL
   Partnership'
 uid: 5e62a629-a54a-1640-b705-eac66351b67f
 video_files:
   archive_url: http://www.archive.org/download/MIT14.73S11/MIT14_73S11_lec10_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-73-the-challenge-of-world-poverty-spring-2011/ec7a219ff2b457758e0bb8d419291b73_klz2SdQorbA.vtt
+  video_captions_file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/ec7a219ff2b457758e0bb8d419291b73_klz2SdQorbA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/klz2SdQorbA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/14-73-the-challenge-of-world-poverty-spring-2011/79221cd16b2404ce26b94aa9738b5e11_klz2SdQorbA.pdf
+  video_transcript_file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/79221cd16b2404ce26b94aa9738b5e11_klz2SdQorbA.pdf
 video_metadata:
   youtube_id: klz2SdQorbA
 ---

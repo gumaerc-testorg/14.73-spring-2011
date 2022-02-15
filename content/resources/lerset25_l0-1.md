@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-73-the-challenge-of-world-poverty-spring-2011/87e5903a92965238ba2b77d5c3a215da_LERsET25_l0.pdf
+file: /media/courses/14-73-the-challenge-of-world-poverty-spring-2011/87e5903a92965238ba2b77d5c3a215da_LERsET25_l0.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 87e5903a-9296-5238-ba2b-77d5c3a215da

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2453d2be-6f3b-f7a7-001a-4e1dfbbcf71d
 ---
@@ -79,28 +81,6 @@ None, although knowledge of statistics can be helpful
 ### Offered
 
 One semester per year
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![14-37_classroom-1.png]({{< resource_file ba7741d6-81c1-1b9b-865f-5714e99ed88c >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Twice a week, students meet for lecture in a large, tiered classroom. Instructors use sliding chalkboards and project slides and movies.
-    
-*   ![14-37_classroom-2.png]({{< resource_file 78db807f-fee2-7ae3-b5a9-362333314d0c >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Recitation
-    
-    Once a week, students meet in smaller groups for recitation. About half of the students are in each of the two recitation groups.
-    
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 

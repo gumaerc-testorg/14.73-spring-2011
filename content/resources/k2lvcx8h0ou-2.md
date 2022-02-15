@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-73-the-challenge-of-world-poverty-spring-2011/e44b50399786536c8f478b8732ee146b_K2LvCx8H0OU.vtt
+file: /media/courses/14-73-the-challenge-of-world-poverty-spring-2011/e44b50399786536c8f478b8732ee146b_K2LvCx8H0OU.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: e44b5039-9786-536c-8f47-8b8732ee146b

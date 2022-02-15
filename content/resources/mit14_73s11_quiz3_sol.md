@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding Pop quiz #3 solutions.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-73-the-challenge-of-world-poverty-spring-2011/894b3742ac752ee4637d3b615c6373d0_MIT14_73S11_quiz3_sol.pdf
+file: /media/courses/14-73-the-challenge-of-world-poverty-spring-2011/894b3742ac752ee4637d3b615c6373d0_MIT14_73S11_quiz3_sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 'Pop quiz #3 solutions'
 uid: 894b3742-ac75-2ee4-637d-3b615c6373d0

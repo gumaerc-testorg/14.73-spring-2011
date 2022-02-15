@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Writing Advice
 uid: 5c5a27d4-d0ec-38f5-6722-1bcdef1dfd1b
 ---
