@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: Policies, Politics   Can Evidence Play a Role in the Fight against Poverty?
 uid: cea26ee9-298c-82cb-5581-54e531e2be51

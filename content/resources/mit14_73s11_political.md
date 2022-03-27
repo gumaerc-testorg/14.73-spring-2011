@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cf47fd1d-af3d-0450-c8e4-80c3a0b8df42
 resourcetype: Document
 title: Political economy essay assignment
 uid: 1718ca7d-c3cf-9150-705e-3874cff3ea9b

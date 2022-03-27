@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: 'Social experiments: Why and how?'
 uid: 5f065192-acfd-7286-eb13-bde7406a16b6

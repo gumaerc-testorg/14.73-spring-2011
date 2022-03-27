@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cf47fd1d-af3d-0450-c8e4-80c3a0b8df42
 resourcetype: Document
 title: Credit essay assignment
 uid: 050be08d-827f-f9fb-e3a9-1bfa9d639569

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: 'Education: Setting the Stage'
 uid: 97c51d41-291d-8c1d-c1ca-19d1bbcd97ee

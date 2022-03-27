@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 26: Five Thoughts in Place of a Sweeping Conclusion'
 uid: 1aa58c4e-a538-05a3-5b9c-f8a1f1a87d33
 video_files:

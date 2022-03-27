@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cf47fd1d-af3d-0450-c8e4-80c3a0b8df42
 resourcetype: Document
 title: Entrepreneurship essay assignment
 uid: 28a6a95e-8fad-3bd8-e9da-8799b97fad94

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cf47fd1d-af3d-0450-c8e4-80c3a0b8df42
 resourcetype: Document
 title: Introduction essay assignment
 uid: eabcaee1-dae0-a72c-8eb4-314cae0fcb8c

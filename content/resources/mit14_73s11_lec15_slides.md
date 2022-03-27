@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: Social Protection and Poverty Reduction
 uid: 5126a24f-6f97-0c8f-f14e-2cfa79d3261a

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Policies, Politics: Can Evidence Play a Role in the Fight Against
   Poverty?'
 uid: 2c1c026f-88c9-6640-9364-32a5ae2692b8

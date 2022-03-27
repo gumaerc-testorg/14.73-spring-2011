@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: The (not so simple) economics of lending to the poor
 uid: 8b536f69-e4ca-6406-d597-02ea394c9aeb

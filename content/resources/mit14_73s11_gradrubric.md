@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 1dea76ca-f22a-7c32-7f35-40609c909c73
 resourcetype: Document
 title: Grading Rubric
 uid: d51ca8b0-f3ab-4672-e497-e734b8e41bf7

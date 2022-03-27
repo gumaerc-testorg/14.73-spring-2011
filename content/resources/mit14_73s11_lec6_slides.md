@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: 'Nutrition: the Hidden traps'
 uid: 1ae36ad4-be95-9586-41ac-47a1451ca871

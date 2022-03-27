@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: d829a8bf-6d11-af7d-4a35-fbdf065c8b8a
 resourcetype: Document
 title: 'Pop quiz #7 solutions'
 uid: 85d9de3f-c131-cb2a-36aa-a3bd732fa10e

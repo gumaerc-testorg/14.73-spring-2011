@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: 'Lecture 5: Is there a nutrition-based poverty trap? '
 uid: cbe5cb3f-213e-1878-858c-439bbfa34051

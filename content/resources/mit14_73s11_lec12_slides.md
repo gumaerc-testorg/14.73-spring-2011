@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 resourcetype: Document
 title: (Somewhat) un-orthodox findings on the family
 uid: baacf217-bf9a-6830-e9c5-7fa311521855
