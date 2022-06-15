@@ -1,30 +1,30 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2453d2be-6f3b-f7a7-001a-4e1dfbbcf71d
 ---
+## Course Overview
 
-Course Overview
----------------
-
-This page focuses on the course 14.73 _The Challenges of World Poverty_ as it was taught by Professor Esther Duflo and Professor Abhijit Banerjee in Spring 2011.
+This page focuses on the course _14.73 The Challenges of World Poverty_ as it was taught by Professor Esther Duflo and Professor Abhijit Banerjee in Spring 2011.
 
 This is a course for those who are interested in the challenge posed by massive and persistent world poverty, and are hopeful that economists might have something useful to say about this challenge. Questions such as the following are explored through lecture, discussion, reading, and writing:
 
-*   Is extreme poverty a thing of the past?
-*   Why do some countries grow quickly while others fall further behind?
-*   Are famines unavoidable?
-*   How do we make schools work for poor citizens?
-*   How do we deal with the disease burden?
-*   Is micro finance invaluable or overrated?
-*   Should we leave economic development to the market? Non-governmental organizations (NGOs)?
-*   Does foreign aid help or hinder?
+- Is extreme poverty a thing of the past?
+- Why do some countries grow quickly while others fall further behind?
+- Are famines unavoidable?
+- How do we make schools work for poor citizens?
+- How do we deal with the disease burden?
+- Is micro finance invaluable or overrated?
+- Should we leave economic development to the market? Non-governmental organizations (NGOs)?
+- Does foreign aid help or hinder?
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
@@ -34,21 +34,20 @@ At the end of this course, students should have a good sense of the key question
 
 At MIT:
 
-*   [14.74 _Foundations of Development Policy_](/courses/14-74-foundations-of-development-policy-spring-2009/)
-*   Majoring in economics
-*   Working with other development organizations at MIT (e.g., UROP ![](/images/educator/icon-question-urop.png) for [J-PAL](http://www.povertyactionlab.org/), [D-LAB](http://d-lab.mit.edu/), [PKG Fellowships](https://pkgcenter.mit.edu/programs/fellowships/pkg-fellowships/))
+- [_14.74 Foundations of Development Policy_](/courses/14-74-foundations-of-development-policy-spring-2009)
+- Majoring in economics
+- Working with other development organizations at MIT (e.g., UROP ![](/images/educator/icon-question-urop.png) for [J-PAL](http://www.povertyactionlab.org/), [D-LAB](http://d-lab.mit.edu/), [PKG Fellowships](https://pkgcenter.mit.edu/programs/fellowships/pkg-fellowships/))
 
 After Graduating:
 
-*   Working for J-PAL
-*   Graduate school in economics
+- Working for J-PAL
+- Graduate school in economics
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-Below, Prof. Esther Duflo and Prof. Abhijit Banerjee explain the role of pop quizzes in the Spring 2011 offering of 14.73 _The Challenges of World Poverty_, as well as how the structure of the course has changed to a "flipped" classroom since the Spring 2011 offering.
+Below, Prof. Esther Duflo and Prof. Abhijit Banerjee explain the role of pop quizzes in the Spring 2011 offering of _14.73_ _The Challenges of World Poverty_, as well as how the structure of the course has changed to a "flipped" classroom since the Spring 2011 offering.
 
 ### Pop Quizzes
 
@@ -66,8 +65,7 @@ Then, in the latter half of class, one group is randomly chosen (in real time) t
 
 The presentations are then evaluated by TAs. Each student is assigned both an individual and team grade. This grade is incorporated into each student’s final grade, along with their performance on online assignments, written assignments, and exams.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -75,8 +73,8 @@ None, although knowledge of statistics can be helpful
 
 ### Requirements Satisfied
 
-*   HASS-S ![](/images/educator/icon-question-hass-s.png)
-*   This course can be applied toward a [Bachelor of Science in Economics](http://catalog.mit.edu/degree-charts/economics-course-14/) as a restricted elective, but it is not required.
+- HASS-S ![](/images/educator/icon-question-hass-s.png)
+- This course can be applied toward a [Bachelor of Science in Economics](http://catalog.mit.edu/degree-charts/economics-course-14/) as a restricted elective, but it is not required.
 
 ### Offered
 
@@ -84,10 +82,11 @@ One semester per year
 
 {{< anchor "studentinfo" >}}{{< /anchor >}}
 
-Student Information
--------------------
+## Student Information
 
-![14-37_stat-students.png]({{< resource_file e1874cba-3251-39af-f9f7-23933c8b3ec3 >}})
+### Enrollment
+
+49 students
 
 ### Breakdown by Year
 
@@ -99,52 +98,47 @@ Roughly 50% Economics, 20% Business / Management, and 30% other
 
 ### Typical Student Background
 
-*   Analytical and logical problem-solving skills
-*   Basic knowledge of calculus and statistics (though not necessary)
-*   Interest in development, policy, management, economics, and social science
+- Analytical and logical problem-solving skills
+- Basic knowledge of calculus and statistics (though not necessary)
+- Interest in development, policy, management, economics, and social science
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Two class sessions each week; 1.5 hours per class; 26 sessions total
-*   Attended by all students
-*   Taught by Prof. Esther Duflo (1st half of course) and Prof. Abhijit Banerjee (2nd half of course)
-*   Lecture style, supplemented by Powerpoint slides and occasional movies, intermingled with interactive Q & A from students in order to induce thought-provoking, real-time conversation and learning
-*   Pop quizzes
+- Two class sessions each week; 1.5 hours per class; 26 sessions total
+- Attended by all students
+- Taught by Prof. Esther Duflo (1st half of course) and Prof. Abhijit Banerjee (2nd half of course)
+- Lecture style, supplemented by Powerpoint slides and occasional movies, intermingled with interactive Q & A from students in order to induce thought-provoking, real-time conversation and learning
+- Pop quizzes
 
-Recitation
-----------
+### Recitation
 
-*   Once a week for 1 hour
-*   Taught by graduate student teaching assistants
-*   Two separate sessions, each with a different instructor, to accommodate learning styles and schedules
+- Once a week for 1 hour
+- Taught by graduate student teaching assistants
+- Two separate sessions, each with a different instructor, to accommodate learning styles and schedules
 
-Out of Class
-------------
+### Out of Class
 
-*   [Readings]({{< baseurl >}}/pages/readings)
-*   [Weekly writing assignments]({{< baseurl >}}/pages/assignments)
-*   Studying for [pop-quizzes and final exam]({{< baseurl >}}/pages/exams)
+- {{% resource_link 4d7de744-b4d5-5330-c538-529d5ceb6b26 "Readings" %}}
+- {{% resource_link cf47fd1d-af3d-0450-c8e4-80c3a0b8df42 "Weekly writing assignments" %}}
+- Studying for {{% resource_link d829a8bf-6d11-af7d-4a35-fbdf065c8b8a "pop-quizzes and final exam" %}}
 
 {{< anchor "roles" >}}{{< /anchor >}}
 
-Course Team Roles
------------------
+## Course Team Roles
 
 ### Lead Instructors (Prof. Esther Duflo and Prof. Abhijit Banerjee)
 
 Responsibilities:
 
-*   Responsible for course development and organization
-*   Lecture every week, with Prof. Duflo covering the first half of the course and Prof. Banerjee covering the second half of the course
-*   Review and edit all homework and mid term questions before they are made public
+- Responsible for course development and organization
+- Lecture every week, with Prof. Duflo covering the first half of the course and Prof. Banerjee covering the second half of the course
+- Review and edit all homework and mid term questions before they are made public
 
 ### Teaching Assistants
 
@@ -152,6 +146,6 @@ Teaching Assistants (TAs) are typically second to third year graduate students s
 
 Responsibilities:
 
-*   Lead recitations once a week, focusing on supplementary course topics and problem-solving. This includes statistics concepts, review sessions, going over homework problems, etc.
-*   Create all homework and exam questions and material for review by professors
-*   Hold weekly office hours
+- Lead recitations once a week, focusing on supplementary course topics and problem-solving. This includes statistics concepts, review sessions, going over homework problems, etc.
+- Create all homework and exam questions and material for review by professors
+- Hold weekly office hours
