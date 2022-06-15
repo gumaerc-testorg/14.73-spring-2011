@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-73-the-challenge-of-world-poverty-spring-2011/b6f2c4cf3a0c3312df2e3cfd5f2721c7_kvmrpgEReX8.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/b6f2c4cf3a0c3312df2e3cfd5f2721c7_kvmrpgEReX8.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

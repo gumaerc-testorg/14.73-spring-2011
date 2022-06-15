@@ -5,9 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Policies, politics: Can evidence play a role in the fight against
-  poverty? (PDF - 1.3MB)](resources/mit14_73s11_lec25_slides)'
+  poverty? (PDF - 1.3MB)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec25_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 **Description:** This lecture discusses the impact of political economics on the world's poor.
 
 **Instructor:** Abhijit Banerjee
+
+
+

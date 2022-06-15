@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[(Somewhat) un-orthodox findings on the family (PDF)](resources/mit14_73s11_lec12_slides)'
+optional_text: '[(Somewhat) un-orthodox findings on the family (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec12_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** This lecture discusses what drives fertitlity decisions. Topics include family planning, population growth, quality-quantity trade off, and China's one-child policy, among other topics.
 
 **Instructor:** Esther Duflo
+
+
+

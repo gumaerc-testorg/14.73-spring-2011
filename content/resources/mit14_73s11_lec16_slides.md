@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding insurance.
-file: /media/courses/14-73-the-challenge-of-world-poverty-spring-2011/91a0b3df80029287624dd8e71077f43e_MIT14_73S11_Lec16_slides.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/91a0b3df80029287624dd8e71077f43e_MIT14_73S11_Lec16_slides.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: Insurance
 uid: 91a0b3df-8002-9287-624d-d8e71077f43e
 ---
+This resource contains information regarding insurance.
+

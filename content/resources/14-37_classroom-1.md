@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/14-73-the-challenge-of-world-poverty-spring-2011/ba7741d681c11b9b865f5714e99ed88c_14-37_classroom-1.png
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/ba7741d681c11b9b865f5714e99ed88c_14-37_classroom-1.png
 file_type: image/png
 image_metadata:
   caption: ''

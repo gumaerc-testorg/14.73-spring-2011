@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Introduction (PDF)](resources/mit14_73s11_lec1_slides)'
+optional_text: '[Introduction (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec1_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Lecture 1 provides an introduction to the study of global poverty. The class dicusses the challenges of world poverty.
 
 **Instructor:** Abhijit Banerjee
+
+
+

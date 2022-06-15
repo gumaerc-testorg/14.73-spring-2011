@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the writing assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +32,7 @@ ASSIGNMENTS
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_intro)
+{{% resource_link eabcaee1-dae0-a72c-8eb4-314cae0fcb8c "Introduction essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Introduction
 Consumption
 {{< tdclose >}}
 {{< tdopen >}}
-[Consumption essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_consumption)
+{{% resource_link ba665de8-26d2-4597-0db3-e1186dd81bd4 "Consumption essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +56,7 @@ Consumption
 Health
 {{< tdclose >}}
 {{< tdopen >}}
-[Health essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_health)
+{{% resource_link c9c4c52f-cc61-6e8d-6739-073349c7528a "Health essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +68,7 @@ Health
 Education
 {{< tdclose >}}
 {{< tdopen >}}
-[Education essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_education)
+{{% resource_link 56dc72d2-3825-e7d3-fe22-2eb153f8ec23 "Education essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Education
 Family
 {{< tdclose >}}
 {{< tdopen >}}
-[Family essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_family)
+{{% resource_link c823e95c-ba99-15c5-76fb-8039a5b21f86 "Family essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Family
 Insurance
 {{< tdclose >}}
 {{< tdopen >}}
-[Insurance essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_insurance)
+{{% resource_link 89410915-4502-6aa1-00ad-da66b4adc941 "Insurance essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +104,7 @@ Insurance
 Credit
 {{< tdclose >}}
 {{< tdopen >}}
-[Credit essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_credit)
+{{% resource_link 050be08d-827f-f9fb-e3a9-1bfa9d639569 "Credit essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Credit
 Savings
 {{< tdclose >}}
 {{< tdopen >}}
-[Savings essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_savings)
+{{% resource_link c9e9b41e-4b63-c31c-04aa-ac09c3854f23 "Savings essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ Savings
 Entrepreneurship
 {{< tdclose >}}
 {{< tdopen >}}
-[Entrepreneurship essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_entre)
+{{% resource_link 28a6a95e-8fad-3bd8-e9da-8799b97fad94 "Entrepreneurship essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +140,7 @@ Entrepreneurship
 Political Economy
 {{< tdclose >}}
 {{< tdopen >}}
-[Political economy essay assignment (PDF)]({{< baseurl >}}/resources/mit14_73s11_political)
+{{% resource_link 1718ca7d-c3cf-9150-705e-3874cff3ea9b "Political economy essay assignment (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -5,9 +5,10 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Is it possible to deliver quality education to the poor: The Pratham-JPAL
-  Partnership (PDF)](resources/mit14_73s11_lec10_slides)'
+  Partnership (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec10_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -29,3 +30,6 @@ video_metadata:
 **Description:** This lecture discusses various experiments and interventions in education, specifically in India. The work of the organization, Pratham, is also covered.
 
 **Instructor:** Esther Duflo
+
+
+

@@ -5,8 +5,9 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Notes
-optional_text: '[Social experiments: Why and how? (PDF - 2.7MB)](resources/mit14_73s11_lec3_slides)'
+optional_text: '[Social experiments: Why and how? (PDF - 2.7MB)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec3_slides)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Esther Duflo talks about social experiments done to understand what interventions work best to mitigate world poverty.
 
 **Instructor:** Esther Duflo
+
+
+
