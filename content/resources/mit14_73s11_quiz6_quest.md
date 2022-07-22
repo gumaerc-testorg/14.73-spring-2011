@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/02861b70128922a1
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Pop quiz #6 questions'
 uid: 02861b70-1289-22a1-c652-91f4fcd2054f
 ---
 This resource contains information regarding Pop quiz #6 questions
-

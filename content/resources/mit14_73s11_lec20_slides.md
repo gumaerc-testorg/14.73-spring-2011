@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/315a77ff5a4cd7f7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: savings
 uid: 315a77ff-5a4c-d7f7-d7de-3116c2b3ed67
 ---
 This resource contains information regarding savings.
-

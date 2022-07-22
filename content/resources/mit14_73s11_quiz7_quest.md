@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/58bfb02efda418ce
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Pop quiz #7 questions'
 uid: 58bfb02e-fda4-18ce-cd32-aa3e5efba6e4
 ---
 This resource contains information regarding Pop quiz #7 questions
-

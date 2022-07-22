@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/894b3742ac752ee4
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Pop quiz #3 solutions'
 uid: 894b3742-ac75-2ee4-637d-3b615c6373d0
 ---
 This resource contains information regarding Pop quiz #3 solutions.
-

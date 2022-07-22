@@ -6,6 +6,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/cea26ee9298c82cb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Policies, Politics   Can Evidence Play a Role in the Fight against Povert
 uid: cea26ee9-298c-82cb-5581-54e531e2be51
 ---
 This resource contains information regarding policies, politics can evidence play a role in the fight against poverty?
-

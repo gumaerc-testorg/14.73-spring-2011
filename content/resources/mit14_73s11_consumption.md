@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/ba665de826d24597
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Consumption essay assignment
 uid: ba665de8-26d2-4597-0db3-e1186dd81bd4
 ---
 This resource contains information regarding Consumption
-

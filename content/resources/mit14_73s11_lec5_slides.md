@@ -6,6 +6,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/cbe5cb3f213e1878
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Lecture 5: Is there a nutrition-based poverty trap? '
 uid: cbe5cb3f-213e-1878-858c-439bbfa34051
 ---
 This resource contains information regarding is there a nutrition-based poverty trap? 
-

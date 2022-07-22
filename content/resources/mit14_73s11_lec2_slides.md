@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/95ebaaead67feeac
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: What is a poverty trap?
 uid: 95ebaaea-d67f-eeac-c851-341501d0576a
 ---
 This resource contains information regarding what is a poverty trap?
-

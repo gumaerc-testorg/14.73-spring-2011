@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/56dc72d23825e7d3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Education essay assignment
 uid: 56dc72d2-3825-e7d3-fe22-2eb153f8ec23
 ---
 This resource contains information regarding Education
-

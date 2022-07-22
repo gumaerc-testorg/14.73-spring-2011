@@ -6,6 +6,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/a29b94cef837f7eb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Is it possible to deliver  quality education to the poor? The Pratham-J-P
 uid: a29b94ce-f837-f7eb-fc96-d22def8ccb98
 ---
 This resource contains information regarding is it possible to deliver quality education to the poor? The Pratham-J-PAL Partnership.
-

@@ -6,6 +6,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/5126a24f6f970c8f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Social Protection and Poverty Reduction
 uid: 5126a24f-6f97-0c8f-f14e-2cfa79d3261a
 ---
 This resource contains information regarding social protection and poverty reduction.
-

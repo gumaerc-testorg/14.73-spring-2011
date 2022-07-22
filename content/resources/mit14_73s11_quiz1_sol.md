@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/eeae01554070725c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Pop quiz #1 solutions'
 uid: eeae0155-4070-725c-ef73-30fe59a4f093
 ---
 This resource contains information regarding Pop quiz #1 solutions.
-

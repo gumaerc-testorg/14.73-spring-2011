@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/1ae36ad4be959586
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Nutrition: the Hidden traps'
 uid: 1ae36ad4-be95-9586-41ac-47a1451ca871
 ---
 This resource contains information regarding nutrition: the Hidden traps.
-

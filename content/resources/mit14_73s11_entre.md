@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/28a6a95e8fad3bd8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Entrepreneurship essay assignment
 uid: 28a6a95e-8fad-3bd8-e9da-8799b97fad94
 ---
 This resource contains information regarding Entrepreneurship
-

@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/0c280ee4efacd7b7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: How do families decide?
 uid: 0c280ee4-efac-d7b7-bdbd-bce3b4f8c32d
 ---
 This resource contains information regarding how do families decide?
-

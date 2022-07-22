@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Savings (PDF)](resources/mit14_73s11_lec20_slides)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture covers the realities of saving and borrowing for the world's poor.
 
 **Instructor:** Abhijit Bannerjee
-
-
 

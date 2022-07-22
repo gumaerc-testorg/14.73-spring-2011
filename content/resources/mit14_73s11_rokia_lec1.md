@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/271e639bc0f4bb30
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Rokia Letter
 uid: 271e639b-c0f4-bb30-e63d-b48fc27d1f3a
 ---
 This resource contains information regarding rokia letter.
-

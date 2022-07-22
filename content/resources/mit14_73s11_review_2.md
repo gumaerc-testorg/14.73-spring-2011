@@ -5,6 +5,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/681edbce0cd2dacd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam review 2
 uid: 681edbce-0cd2-dacd-bbb7-cacbb27ded11
 ---
 This resource contains information regarding exam review 2
-

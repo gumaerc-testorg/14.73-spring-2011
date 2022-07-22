@@ -6,6 +6,7 @@ file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/08bd311a439a36d1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Education: The Man Made Trap'
 uid: 08bd311a-439a-36d1-15c6-0ebd8a992479
 ---
 This resource contains information regarding education: The man made trap.
-

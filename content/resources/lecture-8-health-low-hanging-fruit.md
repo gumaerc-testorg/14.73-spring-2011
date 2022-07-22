@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Lecture Notes
 optional_text: '[Health: Low hanging fruit (PDF)](/courses/14-73-the-challenge-of-world-poverty-spring-2011/resources/mit14_73s11_lec8_slides)'
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture discusses some of the most effective and cheapest ways to promote good health, such as bednets, immunization, and breast feeding.
 
 **Instructor:** Esther Duflo
-
-
 
