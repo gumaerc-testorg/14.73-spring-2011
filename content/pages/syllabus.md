@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, instructors,
+  prerequisites, the required textbook, readings, and films, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1dea76ca-f22a-7c32-7f35-40609c909c73
 ---
@@ -78,7 +82,7 @@ Written assignments
 
 {{< tableclose >}}
 
-[Grading rubric for written assignments (PDF)]({{< baseurl >}}/resources/mit14_73s11_gradrubric)
+{{% resource_link d51ca8b0-f3ab-4672-e497-e734b8e41bf7 "Grading rubric for written assignments (PDF)" %}}
 
 ### Pop Quizzes
 

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the lecture notes and handouts used for each session
+  of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 370e7e17-0762-7fb6-3218-87fe9acd107a
 ---
@@ -30,15 +35,15 @@ Topics
 {{< tdopen >}}
 
 
-[Introduction (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec1_slides)
+{{% resource_link ae84675d-4f08-5944-f4c6-d322daf10e22 "Introduction (PDF)" %}}
 
 **Letter Exercise**
 
 Students completed an in-class exercsie where they given one of two letters (below) asking for donations to Save the Children; one was a general letter, the other featured a girl named Rokia. They were then asked if they would donate money to the organization. At the end of class, they determined which letter was more effective in raising money. 
 
-[General Letter (PDF)]({{< baseurl >}}/resources/mit14_73s11_general_lec1)
+{{% resource_link b704458c-1af6-2e8b-9ce6-8c155eb83ef3 "General Letter (PDF)" %}}
 
-[Rokia Letter (PDF)]({{< baseurl >}}/resources/mit14_73s11_rokia_lec1)
+{{% resource_link 271e639b-c0f4-bb30-e63d-b48fc27d1f3a "Rokia Letter (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -49,7 +54,7 @@ Students completed an in-class exercsie where they given one of two letters (bel
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[What is a poverty trap? (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec2_slides)
+{{% resource_link 95ebaaea-d67f-eeac-c851-341501d0576a "What is a poverty trap? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Students completed an in-class exercsie where they given one of two letters (bel
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Social experiments: Why and how? (PDF - 2.7MB)]({{< baseurl >}}/resources/mit14_73s11_lec3_slides)
+{{% resource_link 5f065192-acfd-7286-eb13-bde7406a16b6 "Social experiments: Why and how? (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +87,7 @@ The nature of famine (No slides available)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Is there a nutrition-based poverty trap? (PDF - 1.2MB)]({{< baseurl >}}/resources/mit14_73s11_lec5_slides)
+{{% resource_link cbe5cb3f-213e-1878-858c-439bbfa34051 "Is there a nutrition-based poverty trap? (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +96,7 @@ The nature of famine (No slides available)
 6
 {{< tdclose >}}
 {{< tdopen >}}
-[The hidden traps (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec6_slides)
+{{% resource_link 1ae36ad4-be95-9586-41ac-47a1451ca871 "The hidden traps (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +120,7 @@ Delivering healthcare: A case study from India (No slides available)
 8
 {{< tdclose >}}
 {{< tdopen >}}
-[Health: Low hanging fruit (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec8_slides)
+{{% resource_link 9ccc8ee4-7431-0da7-f305-f594adac6e58 "Health: Low hanging fruit (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ Delivering healthcare: A case study from India (No slides available)
 9
 {{< tdclose >}}
 {{< tdopen >}}
-[Education: Setting the stage (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec9_slides)
+{{% resource_link 97c51d41-291d-8c1d-c1ca-19d1bbcd97ee "Education: Setting the stage (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +144,7 @@ Delivering healthcare: A case study from India (No slides available)
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Is it possible to deliver quality education to the poor: The Pratham-JPAL Partnership (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec10_slides)
+{{% resource_link a29b94ce-f837-f7eb-fc96-d22def8ccb98 "Is it possible to deliver quality education to the poor: The Pratham-JPAL Partnership (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ Delivering healthcare: A case study from India (No slides available)
 11
 {{< tdclose >}}
 {{< tdopen >}}
-[Education: The man made trap (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec11_slides)
+{{% resource_link 08bd311a-439a-36d1-15c6-0ebd8a992479 "Education: The man made trap (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +168,7 @@ Delivering healthcare: A case study from India (No slides available)
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[(Somewhat) un-orthodox findings on the family (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec12_slides)
+{{% resource_link baacf217-bf9a-6830-e9c5-7fa311521855 "(Somewhat) un-orthodox findings on the family (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +177,7 @@ Delivering healthcare: A case study from India (No slides available)
 13
 {{< tdclose >}}
 {{< tdopen >}}
-[How do families decide? (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_73s11_lec13_slides)
+{{% resource_link 0c280ee4-efac-d7b7-bdbd-bce3b4f8c32d "How do families decide? (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +186,7 @@ Delivering healthcare: A case study from India (No slides available)
 14
 {{< tdclose >}}
 {{< tdopen >}}
-[Gender discrimination (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec14_slides)
+{{% resource_link 97784537-785a-0487-ac0e-1b3aae861240 "Gender discrimination (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +201,7 @@ Delivering healthcare: A case study from India (No slides available)
 15
 {{< tdclose >}}
 {{< tdopen >}}
-[Risk and insurance (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec15_slides)
+{{% resource_link 5126a24f-6f97-0c8f-f14e-2cfa79d3261a "Risk and insurance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +210,7 @@ Delivering healthcare: A case study from India (No slides available)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-[Insurance (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec16_slides)
+{{% resource_link 91a0b3df-8002-9287-624d-d8e71077f43e "Insurance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +225,7 @@ Delivering healthcare: A case study from India (No slides available)
 17
 {{< tdclose >}}
 {{< tdopen >}}
-[The (not so simple) economics of lending to the poor (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec17_slides)
+{{% resource_link 8b536f69-e4ca-6406-d597-02ea394c9aeb "The (not so simple) economics of lending to the poor (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +249,7 @@ The (not so simple) economics of lending to the poor (cont.) (Slides unavailable
 19
 {{< tdclose >}}
 {{< tdopen >}}
-[The promise and perils of microfinance (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec19_slides)
+{{% resource_link 88469380-f2cb-a95e-f4d6-84f7e742f01a "The promise and perils of microfinance (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -253,7 +258,7 @@ The (not so simple) economics of lending to the poor (cont.) (Slides unavailable
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[Savings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit14_73s11_lec20_slides)
+{{% resource_link "315a77ff-5a4c-d7f7-d7de-3116c2b3ed67" "Savings (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +267,7 @@ The (not so simple) economics of lending to the poor (cont.) (Slides unavailable
 21
 {{< tdclose >}}
 {{< tdopen >}}
-[Savings 2 (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec21_slides)
+{{% resource_link 0f85e3ef-2c0c-4e4f-56a9-3d265caf6e22 "Savings 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -277,7 +282,7 @@ The (not so simple) economics of lending to the poor (cont.) (Slides unavailable
 22
 {{< tdclose >}}
 {{< tdopen >}}
-[Entrepreneurs and workers (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec22_slides)
+{{% resource_link 4deddf5d-439e-7df1-dc33-7d09d185322f "Entrepreneurs and workers (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -301,7 +306,7 @@ Entrepreneurs and workers (cont.) (Slides unavailable)
 24
 {{< tdclose >}}
 {{< tdopen >}}
-[Policies, politics: Can evidence play a role in the fight against poverty? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit14_73s11_lec24_slides)
+{{% resource_link "cea26ee9-298c-82cb-5581-54e531e2be51" "Policies, politics: Can evidence play a role in the fight against poverty? (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +315,7 @@ Entrepreneurs and workers (cont.) (Slides unavailable)
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Policies, politics: Can evidence play a role in the fight against poverty? (PDF - 1.3MB)]({{< baseurl >}}/resources/mit14_73s11_lec25_slides) (cont.)
+{{% resource_link 3403491b-ea93-ca57-cedd-4a6f62e1f945 "Policies, politics: Can evidence play a role in the fight against poverty? (PDF - 1.3MB)" %}} (cont.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +324,7 @@ Entrepreneurs and workers (cont.) (Slides unavailable)
 26
 {{< tdclose >}}
 {{< tdopen >}}
-[Five thoughts in place of a sweeping conclusion (PDF)]({{< baseurl >}}/resources/mit14_73s11_lec26_slides)
+{{% resource_link c703e812-ef86-b3c3-419d-ccc0c447c128 "Five thoughts in place of a sweeping conclusion (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
