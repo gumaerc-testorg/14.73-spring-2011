@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding savings.
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/315a77ff5a4cd7f7d7de3116c2b3ed67_MIT14_73S11_Lec20_slides.pdf
+file_size: 693479
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

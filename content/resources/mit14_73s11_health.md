@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding health
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/c9c4c52fcc616e8d6739073349c7528a_MIT14_73S11_health.pdf
+file_size: 117182
 file_type: application/pdf
 learning_resource_types:
 - Assignments
