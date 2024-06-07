@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/2fb46f4dbdc253327cf46ab7a6a3a59a_jXU0OeAaHn8.srt
+file_size: 86166
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

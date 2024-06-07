@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information regarding social experiments: why
   and how?'
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/5f065192acfd7286eb13bde7406a16b6_MIT14_73S11_Lec3_slides.pdf
+file_size: 2870815
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
