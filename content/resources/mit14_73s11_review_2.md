@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding exam review 2
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/681edbce0cd2dacdbbb7cacbb27ded11_MIT14_73S11_review_2.pdf
+file_size: 130445
 file_type: application/pdf
 learning_resource_types:
 - Exams

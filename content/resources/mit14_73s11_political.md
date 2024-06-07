@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Political economy
 file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/1718ca7dc3cf9150705e3874cff3ea9b_MIT14_73S11_political.pdf
+file_size: 117699
 file_type: application/pdf
 learning_resource_types:
 - Assignments
