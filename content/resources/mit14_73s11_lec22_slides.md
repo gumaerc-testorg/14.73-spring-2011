@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding entrepreneurs and workers.
-file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/4deddf5d439e7df1dc337d09d185322f_MIT14_73S11_Lec22_slides.pdf
+file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/4deddf5d439e7df1dc337d09d185322f_MIT14_73S11_Lec22_slides.pdf
 file_size: 978980
 file_type: application/pdf
 learning_resource_types:
