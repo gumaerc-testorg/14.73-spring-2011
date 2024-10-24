@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding introduction.
-file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/ae84675d4f085944f4c6d322daf10e22_MIT14_73S11_Lec1_slides.pdf
+file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/ae84675d4f085944f4c6d322daf10e22_MIT14_73S11_Lec1_slides.pdf
 file_size: 925021
 file_type: application/pdf
 learning_resource_types:

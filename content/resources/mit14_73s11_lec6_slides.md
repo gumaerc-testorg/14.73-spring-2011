@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding nutrition: the Hidden traps.'
-file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/1ae36ad4be95958641ac47a1451ca871_MIT14_73S11_Lec6_slides.pdf
+file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/1ae36ad4be95958641ac47a1451ca871_MIT14_73S11_Lec6_slides.pdf
 file_size: 1002583
 file_type: application/pdf
 learning_resource_types:
