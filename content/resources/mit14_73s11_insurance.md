@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Insurance
-file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/8941091545026aa100adda66b4adc941_MIT14_73S11_Insurance.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/8941091545026aa100adda66b4adc941_MIT14_73S11_Insurance.pdf
 file_size: 117717
 file_type: application/pdf
 learning_resource_types:

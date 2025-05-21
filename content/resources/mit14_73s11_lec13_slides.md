@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding how do families decide?
-file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/0c280ee4efacd7b7bdbdbce3b4f8c32d_MIT14_73S11_Lec13_slides.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/0c280ee4efacd7b7bdbdbce3b4f8c32d_MIT14_73S11_Lec13_slides.pdf
 file_size: 1108732
 file_type: application/pdf
 learning_resource_types:

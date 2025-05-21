@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding gender discrmination.
-file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/97784537785a0487ac0e1b3aae861240_MIT14_73S11_Lec14_slides.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/97784537785a0487ac0e1b3aae861240_MIT14_73S11_Lec14_slides.pdf
 file_size: 419309
 file_type: application/pdf
 learning_resource_types:
