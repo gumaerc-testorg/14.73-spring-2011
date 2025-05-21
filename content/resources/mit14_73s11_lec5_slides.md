@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding is there a nutrition-based
   poverty trap? '
-file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/cbe5cb3f213e1878858c439bbfa34051_MIT14_73S11_Lec5_slides.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/cbe5cb3f213e1878858c439bbfa34051_MIT14_73S11_Lec5_slides.pdf
 file_size: 1209249
 file_type: application/pdf
 learning_resource_types:

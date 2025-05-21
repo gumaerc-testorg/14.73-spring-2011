@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding policies, politics can evidence
   play a role in the fight against poverty?
-file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/3403491bea93ca57cedd4a6f62e1f945_MIT14_73S11_Lec25_slides.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/3403491bea93ca57cedd4a6f62e1f945_MIT14_73S11_Lec25_slides.pdf
 file_size: 1367473
 file_type: application/pdf
 learning_resource_types:

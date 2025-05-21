@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Grading rubric for written
   assignments
-file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/d51ca8b0f3ab4672e497e734b8e41bf7_MIT14_73S11_GradRubric.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/d51ca8b0f3ab4672e497e734b8e41bf7_MIT14_73S11_GradRubric.pdf
 file_size: 136934
 file_type: application/pdf
 learning_resource_types: []
