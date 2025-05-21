@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding Pop quiz #6 solutions'
-file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/69f5a7e169cb746ffa594ae689274e09_MIT14_73S11_quiz6_sol.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/69f5a7e169cb746ffa594ae689274e09_MIT14_73S11_quiz6_sol.pdf
 file_size: 86486
 file_type: application/pdf
 learning_resource_types:

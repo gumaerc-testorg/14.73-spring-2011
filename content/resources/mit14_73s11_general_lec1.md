@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding general letter.
-file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/b704458c1af62e8b9ce68c155eb83ef3_MIT14_73S11_General_lec1.pdf
+file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/b704458c1af62e8b9ce68c155eb83ef3_MIT14_73S11_General_lec1.pdf
 file_size: 104002
 file_type: application/pdf
 learning_resource_types:
