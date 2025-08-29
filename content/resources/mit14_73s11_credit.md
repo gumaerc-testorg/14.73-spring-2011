@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Credit
-file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/050be08d827ff9fbe3a91bfa9d639569_MIT14_73S11_credit.pdf
+file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/050be08d827ff9fbe3a91bfa9d639569_MIT14_73S11_credit.pdf
 file_size: 117588
 file_type: application/pdf
 learning_resource_types:
