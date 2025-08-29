@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding rokia letter.
-file: /courses/14-73-the-challenge-of-world-poverty-spring-2011/271e639bc0f4bb30e63db48fc27d1f3a_MIT14_73S11_Rokia_lec1.pdf
+file: /ol-ocw-studio-app/courses/14-73-the-challenge-of-world-poverty-spring-2011/271e639bc0f4bb30e63db48fc27d1f3a_MIT14_73S11_Rokia_lec1.pdf
 file_size: 201094
 file_type: application/pdf
 learning_resource_types:
