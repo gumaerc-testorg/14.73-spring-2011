@@ -40,9 +40,9 @@ Introduction: What this class is about
 {{< tdopen >}}
 
 
-{{% resource_link "a41be425-94fb-4c4a-b794-db76448f1b56" "The diary of Jeffrey Sachs and Angelina Jolie in Africa" %}}.
+[The diary of Jeffrey Sachs and Angelina Jolie in Africa](http://www.youtube.com/watch?v=uUHf_kOUM74).
 
-{{% resource_link "f7196bb2-b954-44cd-8074-527bd03b9c22" "Bill Easterly on the failure of aid in Africa" %}}.
+[Bill Easterly on the failure of aid in Africa](https://www.youtube.com/watch?v=vzy8dafM89E).
 
 
 {{< tdclose >}}
@@ -68,7 +68,7 @@ What is a poverty trap?
 Learning what works: The role of experiments
 {{< tdclose >}}
 {{< tdopen >}}
-Esther Duflo's TED Talk. "{{% resource_link "80a76a4b-023e-4aee-acf6-56b4aa5153c4" "Social Experiments to Fight Poverty" %}}."
+Esther Duflo's TED Talk. "[Social Experiments to Fight Poverty](http://www.youtube.com/watch?v=0zvrGiPkVcs)."
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +86,7 @@ Esther Duflo's TED Talk. "{{% resource_link "80a76a4b-023e-4aee-acf6-56b4aa5153c
 The nature of famine
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "3258dec0-16b3-4c97-a2bd-597743ea49a8" "_Asani Sanket (Distant Thunder)_" %}}. Directed by Satyajit Ray. India, 1973.
+[_Asani Sanket (Distant Thunder)_](https://www.imdb.com/title/tt0069737/). Directed by Satyajit Ray. India, 1973.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +128,7 @@ Is there a nutrition based poverty trap-the hidden trap
 Delivering healthcare, a case study from India
 {{< tdclose >}}
 {{< tdopen >}}
-_{{% resource_link "f6c300c1-c6e6-4496-9895-939c1144a3b4" "The Name of the Disease" %}}._ Directed by Abhijit Banerjee, Arundhati Banerjee, and Bappa Sen. Edited by Sumit Ghosh. 2006.
+_[The Name of the Disease](http://www.youtube.com/watch?v=FE7iH_GSxJU)._ Directed by Abhijit Banerjee, Arundhati Banerjee, and Bappa Sen. Edited by Sumit Ghosh. 2006.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +158,7 @@ Low hanging fruit: Understanding healthcare behavior in developing countries
 Setting the stage
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "7e597b8e-8974-437a-ae2a-9d77e7f21c8d" "_Educating Yaparak_" %}}. Directed by Di Tatham. Bullfrog Films, 2005.
+[_Educating Yaparak_](http://www.youtube.com/watch?v=axT4w8-BxGg). Directed by Di Tatham. Bullfrog Films, 2005.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -272,7 +272,7 @@ Insurance
 The (not so simple) economics of lending to the poor
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "e455fcbc-9a67-4770-a1dd-e8699663393b" "_Credit Where Credit Is Due_" %}}. Directed by Ashley Bruce. Bullfrog Films, 2000.
+[_Credit Where Credit Is Due_](http://www.bullfrogfilms.com/catalog/lscred.html). Directed by Ashley Bruce. Bullfrog Films, 2000.
 {{< tdclose >}}
 
 {{< trclose >}}
